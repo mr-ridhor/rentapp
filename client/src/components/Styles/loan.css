@@ -1,0 +1,19 @@
+
+.card {
+  background-color: rgb(191, 179, 199);
+    width: 290px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    border-radius: 5px;
+    /* padding: 10px 20px;
+    /* border: none; 
+    /* border-bottom: 3px solid transparent;
+    background-color: #eee;
+    outline-width: 0;
+    font-size: 1rem;  */ 
+  }
+  
+
+  
+  
